@@ -4,14 +4,18 @@ This Repository refers to the [[Third Homework](https://github.com/FraLuca/TF4AM
 
 ![My Image](trajectory_speed.png)
 
+## Description:
+The first part of the task involves implementing the fundamental building blocks of a transformer architecture.
+In the other part, however, we applied that architecture to predict human trajectories. In this part also we "played" with the various hyperparameters to analyze changes in the output of the model.
+
 ## Group members:
 * Alessandro Sottile
 * Giacomo Scarponi
 * Francesco Sciarra
 * Carolina Romani 
 
-
-
-The notebook provides an introduction to Transformer Network (TF).
-
-The aim of this homework is to guide students through an implementation of the architecture studied in class.
+## Files:
+* `TF4AML_theory.ipynb` notebook contains exercises regarding the implementation of Transformers fundamental blocks;
+* `TF4AML_practice.ipynb` notebook contains exercises for a Computer Vision research application. See paper [[Under the Hood of Transformer Networks for Trajectory Forecasting](https://arxiv.org/abs/2203.11878)];
+* `Data` folder has all the ETH/UCY data used as trajectory forecasting benchmark;
+* `transformer` folder includes all the necessary file to build TF and experiment with the benchmark. The code is inspired by the original Hugging code of 2018.
