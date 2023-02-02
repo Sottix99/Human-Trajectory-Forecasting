@@ -10,8 +10,8 @@ In the other section, however, we applied that architecture to predict human tra
 
 ## Group members:
 * Alessandro Sottile
-* Giacomo Scarponi
 * Francesco Sciarra
+* Giacomo Scarponi 
 * Carolina Romani 
 
 ## Files:
