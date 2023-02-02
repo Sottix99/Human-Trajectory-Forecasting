@@ -6,7 +6,7 @@ This Repository refers to the [[Third Homework](https://github.com/FraLuca/TF4AM
 
 ## Description:
 The first part of the task involves implementing the fundamental building blocks of a transformer architecture.
-In the other part, however, we applied that architecture to predict human trajectories. In this part also we "played" with the various hyperparameters to analyze changes in the output of the model.
+In the other section, however, we applied that architecture to predict human trajectories. In this part also we "played" with the various hyperparameters to analyze changes in the output of the model.
 
 ## Group members:
 * Alessandro Sottile
