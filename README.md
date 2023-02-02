@@ -1,6 +1,5 @@
 # Human Trajectory Forecasting
-
-# This Repository refers to the Third Homework of the course Advanced Machine Learning at University Sapienza of Rome 2022/2023
+This Repository refers to the Third Homework of the course Advanced Machine Learning at University Sapienza of Rome 2022/2023
 ---
 
 # Group members:
