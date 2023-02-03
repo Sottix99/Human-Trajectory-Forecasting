@@ -1,4 +1,5 @@
 # Human Trajectory Forecasting
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 This Repository refers to the [[Third Homework](https://github.com/FraLuca/TF4AML)] of the course Advanced Machine Learning (AML) at University Sapienza of Rome 2022/2023.
 
