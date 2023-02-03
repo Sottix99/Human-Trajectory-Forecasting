@@ -9,10 +9,11 @@ The first part of the task involves implementing the fundamental building blocks
 In the other section, however, we applied that architecture to predict human trajectories. In this part also we "played" with the various hyperparameters to analyze changes in the output of the model.
 
 ## Group members:
-* Alessandro Sottile
-* Francesco Sciarra
-* Giacomo Scarponi 
 * Carolina Romani 
+* Giacomo Scarponi 
+* Francesco Sciarra
+* Alessandro Sottile
+
 
 ## Files:
 * `TF4AML_theory.ipynb` notebook contains exercises regarding the implementation of Transformers fundamental blocks;
